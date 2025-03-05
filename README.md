@@ -56,15 +56,10 @@ Password Manager is a secure and efficient web application built with React.js, 
 | POST | `/api/passwords` | Store a new password |
 | DELETE | `/api/passwords/:id` | Delete a stored password |
 
-## Screenshots
-(Add screenshots of the application here)
+
 
 ## Contributing
 Feel free to contribute to this project. Fork the repo and submit a pull request with improvements!
 
-## License
-This project is licensed under the MIT License.
 
-## Contact
-For any issues or inquiries, reach out at [your email] or open an issue in the repository.
 
